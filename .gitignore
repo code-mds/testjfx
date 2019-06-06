@@ -23,6 +23,7 @@
 hs_err_pid*
 
 # IntellJ project files
-.idea/
+.idea/workspace.xml
+.idea/compiler.xml
 *.iml
 target/
